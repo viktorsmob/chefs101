@@ -1,0 +1,94 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "@remobile/react-native-action-sheet",
+        "scope": "@remobile",
+        "escapedName": "@remobile%2freact-native-action-sheet",
+        "name": "@remobile/react-native-action-sheet",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/Users/hamid/AwesomeProject"
+    ]
+  ],
+  "_from": "@remobile/react-native-action-sheet@latest",
+  "_id": "@remobile/react-native-action-sheet@1.0.2",
+  "_inCache": true,
+  "_location": "/@remobile/react-native-action-sheet",
+  "_nodeVersion": "6.5.0",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/react-native-action-sheet-1.0.2.tgz_1476168959295_0.9905362660065293"
+  },
+  "_npmUser": {
+    "name": "remobile",
+    "email": "42550564@qq.com"
+  },
+  "_npmVersion": "3.10.3",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "@remobile/react-native-action-sheet",
+    "scope": "@remobile",
+    "escapedName": "@remobile%2freact-native-action-sheet",
+    "name": "@remobile/react-native-action-sheet",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@remobile/react-native-action-sheet/-/react-native-action-sheet-1.0.2.tgz",
+  "_shasum": "b1baac375f973d9ae2b87f46c122210d7097cfd5",
+  "_shrinkwrap": null,
+  "_spec": "@remobile/react-native-action-sheet",
+  "_where": "/Users/hamid/AwesomeProject",
+  "author": {
+    "name": "YunJiang.Fang",
+    "email": "42550564@qq.com"
+  },
+  "bugs": {
+    "url": "https://github.com/remobile/react-native-action-sheet/issues"
+  },
+  "dependencies": {},
+  "description": "A pure js ActionSheet like ios ActionSheet, support ios and android",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "b1baac375f973d9ae2b87f46c122210d7097cfd5",
+    "tarball": "https://registry.npmjs.org/@remobile/react-native-action-sheet/-/react-native-action-sheet-1.0.2.tgz"
+  },
+  "gitHead": "4ea1605534edb7b3ef206037c521db76a7a72f5d",
+  "homepage": "https://github.com/remobile/react-native-action-sheet",
+  "keywords": [
+    "react-native",
+    "react-component",
+    "ios",
+    "android",
+    "action sheet",
+    "ActionSheet",
+    "animation",
+    "remobile",
+    "mobile"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "remobile",
+      "email": "42550564@qq.com"
+    }
+  ],
+  "name": "@remobile/react-native-action-sheet",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/remobile/react-native-action-sheet.git"
+  },
+  "scripts": {},
+  "version": "1.0.2"
+}

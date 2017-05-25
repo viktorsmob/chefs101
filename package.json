@@ -1,0 +1,52 @@
+{
+  "name": "AwesomeProject",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "@remobile/react-native-action-sheet": "^1.0.2",
+    "@shoutem/ui": "^0.10.11",
+    "apsl-react-native-button": "^3.0.2",
+    "deco-ride-share-demo": "^1.1.0",
+    "react": "15.4.2",
+    "react-native": "^0.41.2",
+    "react-native-actionsheet": "^2.0.6",
+    "react-native-dropdown": "0.0.6",
+    "react-native-gifted-chat": "^0.1.3",
+    "react-native-image-picker": "^0.26.2",
+    "react-native-image-progress": "^0.6.0",
+    "react-native-interactive-avatar": "^1.1.0",
+    "react-native-maps": "^0.13.1",
+    "react-native-material-design": "^0.3.7",
+    "react-native-md5": "^1.0.0",
+    "react-native-progress": "^3.2.0",
+    "react-native-push-notification": "^2.2.1",
+    "react-native-rating-star": "^0.2.1",
+    "react-native-search-bar": "^3.0.0",
+    "react-native-search-header": "^0.1.6",
+    "react-native-simple-radio-button": "^2.5.0-alpha.1",
+    "react-native-stars-rating": "^0.1.6",
+    "react-native-swipeable": "^0.4.0",
+    "react-native-tab-navigator": "^0.3.3",
+    "react-native-tableview": "^1.7.0",
+    "react-native-tableview-simple": "^0.15.5",
+    "react-native-vector-icons": "^4.0.0",
+    "react-native-viewpager": "^0.2.13",
+    "react-native-xtabbar": "^0.2.1",
+    "react-navigation": "^1.0.0-beta.5",
+    "rn-viewpager": "^1.1.4",
+    "uuid": "^3.0.1"
+  },
+  "devDependencies": {
+    "babel-jest": "18.0.0",
+    "babel-preset-react-native": "1.9.1",
+    "jest": "18.1.0",
+    "react-test-renderer": "15.4.2"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}

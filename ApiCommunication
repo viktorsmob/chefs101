@@ -1,0 +1,22 @@
+1. LogIn
+Request: log
+Reponse:
+{
+	data: {
+		email: "davidlopez19931025%40gmail.com"
+		facebook_id: ""
+		following_username: Array[2]=[{following_uname: 'Abdulla'}]
+		image: 'https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Ftstbuckets%2F2362017-03-1302%3A34%3A48.jpeg'
+		is_private: '0'
+		name: 'DavidJin'
+		store_activated: '0'
+		total_followers: '1'
+		total_following: '2'
+		user_id: '242'
+		username: 'DavidJin'
+	},
+	success: "1"
+}
+2. get_news_feed 
+
+

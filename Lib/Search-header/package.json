@@ -1,0 +1,119 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "react-native-search-header",
+        "scope": null,
+        "escapedName": "react-native-search-header",
+        "name": "react-native-search-header",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/Users/hamid/AwesomeProject"
+    ]
+  ],
+  "_from": "react-native-search-header@latest",
+  "_id": "react-native-search-header@0.1.6",
+  "_inCache": true,
+  "_location": "/react-native-search-header",
+  "_nodeVersion": "7.5.0",
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/react-native-search-header-0.1.6.tgz_1487275895264_0.595098352059722"
+  },
+  "_npmUser": {
+    "name": "tuantle",
+    "email": "tuan.t.lei@gmail.com"
+  },
+  "_npmVersion": "4.2.0",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "react-native-search-header",
+    "scope": null,
+    "escapedName": "react-native-search-header",
+    "name": "react-native-search-header",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-search-header/-/react-native-search-header-0.1.6.tgz",
+  "_shasum": "d104bd9a0ebda4f66d47f50d60834ea57f159fb7",
+  "_shrinkwrap": null,
+  "_spec": "react-native-search-header",
+  "_where": "/Users/hamid/AwesomeProject",
+  "authors": [
+    "Tuan Le <tuan.t.lei@gmail.com> (https://github.com/tuantle)"
+  ],
+  "bugs": {
+    "url": "https://github.com/tuantle/react-native-search-header/issues"
+  },
+  "contributors": [
+    {
+      "name": "Tuan Le",
+      "email": "tuan.t.lei@gmail.com"
+    }
+  ],
+  "dependencies": {
+    "hyperflow": "=0.1.0-beta28",
+    "react-native-animatable": "^1.1.0"
+  },
+  "description": "A react native search header component based on material design patterns.",
+  "devDependencies": {
+    "babel-core": "^6.21.0",
+    "babel-eslint": "^7.1.1",
+    "babel-jest": "^18.0.0",
+    "babel-plugin-transform-strict-mode": "^6.18.0",
+    "babel-preset-node7": "^1.4.0",
+    "babel-preset-react": "^6.16.0",
+    "babel-preset-react-native": "^1.9.1",
+    "eslint": "^3.13.0",
+    "eslint-plugin-react": "^6.8.0",
+    "eslint-plugin-react-native": "^2.2.1",
+    "jest": "^18.1.0",
+    "jest-react-native": "^18.0.0",
+    "react-test-renderer": "^15.4.1"
+  },
+  "directories": {
+    "lib": "src"
+  },
+  "dist": {
+    "shasum": "d104bd9a0ebda4f66d47f50d60834ea57f159fb7",
+    "tarball": "https://registry.npmjs.org/react-native-search-header/-/react-native-search-header-0.1.6.tgz"
+  },
+  "engines": {
+    "node": ">=7.x",
+    "npm": ">=4.x"
+  },
+  "gitHead": "c896d9de94601fa6dbae8fb4afe9cad9fe617592",
+  "homepage": "https://github.com/tuantle/react-native-search-header",
+  "jest": {
+    "preset": "react-native"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "tuantle",
+      "email": "tuan.t.lei@gmail.com"
+    }
+  ],
+  "name": "react-native-search-header",
+  "optionalDependencies": {},
+  "peerDependencies": {
+    "react": "=15.4.2",
+    "react-native": "=0.41.2"
+  },
+  "readme": "ERROR: No README data found!",
+  "registry": "github",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tuantle/react-native-search-header.git"
+  },
+  "scripts": {},
+  "version": "0.1.6"
+}
